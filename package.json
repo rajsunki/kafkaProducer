@@ -1,0 +1,23 @@
+{
+  "name": "kafkaproducer",
+  "version": "1.0.0",
+  "description": "kafka producer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajsunki/kafkaProducer.git"
+  },
+  "author": "rajsunki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajsunki/kafkaProducer/issues"
+  },
+  "homepage": "https://github.com/rajsunki/kafkaProducer#readme",
+  "dependencies": {
+    "kafka-node": "^2.6.1"
+  }
+}
